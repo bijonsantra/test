@@ -5,3 +5,4 @@
 */mykey*
 */.xml
 demo/terraform.tfvars
+*/.terraform.lock.hcl
